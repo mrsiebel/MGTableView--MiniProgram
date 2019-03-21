@@ -19,7 +19,7 @@
 
 <br>
 
-> Github:  [https://gitee.com/siebel/MGTableView--MiniProgram](https://gitee.com/siebel/MGTableView--MiniProgram)
+> Github:  [https://github.com/tomsiebel/MGTableView--MiniProgram](https://github.com/tomsiebel/MGTableView--MiniProgram)
 
 <br>
 
@@ -30,4 +30,3 @@
 >  CSDN:  [https://download.csdn.net/download/jackjia2015/11006399](https://download.csdn.net/download/jackjia2015/11006399)
 
 <br>
-
