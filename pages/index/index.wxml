@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class='title'>表格模板</view>
+<view class="tableView">
+  <view class="table_header">
+    <view class="th th1">日期</view>
+    <view class="th th2">时间</view>
+    <view class="th th3">工作内容</view>
+  </view>
+  <block wx:for="{{ listData }}" wx:for-item="work" wx:key="key">
+    <view class="table_cell">
+      <view class="td td1">{{work.date}}</view>
+      <view class="td td2">{{work.time}}</view>
+      <view class="td td3">{{work.content}}</view>
+    </view>
+  </block>
+
+</view>
